@@ -1,6 +1,6 @@
 
 
-*### Afinal, quem é a Cibelle??* ###
+## *Afinal, quem é a Cibelle??* 
 
 A paixão pela área programação surgiu quando um amigo querido (obrigada Rafael Souza) me apresentou de perto o seu trabalho, foi a partir dai que eu decidi fazer transição de carreira para Desenvolvedora Backend e é este ponto que me encontro atualmente fazendo cursos em diversas plataformas, entre elas: Curso em Vídeo e Udemy.
 De atendente a gerente em menos de 6 meses, meu último trabalho me mostrou o quanto eu posso e sou capaz de trabalhar com as mais diversas dificuldades que o dia a dia nos trás. 
